@@ -21,9 +21,6 @@
 
 </div>
 
-![Snake_animation](https://github.com/SamuelMatos78/SamuelMatos78/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMatos78&repo=SamuelMatos78&theme=react) ](https://github.com/SamuelMatos78/SamuelMatos78)
-  
 
 
