@@ -17,10 +17,13 @@
   <img align="center" alt-"Sam-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt-"Sam-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Sam-cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  
+
+
 </div>
 
+![Snake_animation](https://github.com/SamuelMatos78/SamuelMatos78/blob/output/github-contribution-grid-snake.svg)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=SamuelMatos78&repo=SamuelMatos78&theme=react) ](https://github.com/SamuelMatos78/SamuelMatos78)
   
 
 
